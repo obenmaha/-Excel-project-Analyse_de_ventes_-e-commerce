@@ -21,7 +21,7 @@ Ce projet simule une mission en tant que Data Analyst au sein du service Marketi
 - **/dashboard** : Fichier Excel/Google Sheets contenant le tableau de bord complété.
 
 ## Comment Exécuter le Projet
-1. **Clonez le dépôt** : `git clone https://github.com/ton-username/rapport-marketing-Grand-Marche.git`
+1. **Clonez le dépôt** : `git clone https://github.com/obenmaha/rapport-marketing-Grand-Marche.git`
 2. **Accédez au dossier du projet** : `cd rapport-marketing-Grand-Marche`
 3. **Ouvrez la présentation** : Allez dans le dossier `/reports` pour consulter le fichier PDF.
 4. **Consultez le tableau de bord** : Ouvrez le fichier Excel/Google Sheets dans le dossier `/dashboard`.
